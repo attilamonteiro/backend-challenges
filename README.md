@@ -16,7 +16,6 @@ Feel free to contribute! Only open-source challenges please!
 | Java | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/clickbus-backend-live-code)
 | Java | :brazil: | [FCamara - 1](http://www.fcamara.com.br/) | Java, Rest API | [Code →](https://github.com/fcamarasantos/backend-test-java)
 | Java | :mexico: | [ORCA Grc](https://www.orcagrc.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
-| Java | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/picpay-desafio-backend)
 | Java | :norway: | [Schibsted](https://schibsted.com/) | Java or Kotlin | [Code →](https://github.com/scm-spain/ms-ma--backend-test)
 | Java | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
 | Scala | :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
@@ -47,9 +46,7 @@ Feel free to contribute! Only open-source challenges please!
 | Ruby | :hong_kong: | [AfterShip](https://www.aftership.com/) | Node.js, PHP, Java or Ruby | [Code →](https://github.com/AfterShip/challenge/blob/software-engineer/coding-challenge.md)
 | Ruby | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
 | Ruby | :brazil: | [BCredi](https://www.creditas.com/bcredi) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
-| Ruby | :brazil: | [DogHero](https://www.doghero.com.br/) | Ruby, API | [Code →](https://github.com/doghero/test-backend/wiki/Test-Case)
-| Ruby | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
-| Ruby | :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-backend)
+| Ruby | :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-backend-2024)
 | Ruby | :us: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | Python | :canada: | [AlayaCare - 1](https://www.alayacare.com/) | Python, Flask, SQLite | [Code →](https://github.com/AlayaCare/backend-python-test)
 | Python | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
@@ -90,6 +87,9 @@ Feel free to contribute! Only open-source challenges please!
 | Any Language| :brazil: | [Wirecard Brasil](https://www.wirecardbrasil.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | Any Language| :sweden: | [Volvo Cars](https://www.volvocars.com/) | Any Language | [Code →](https://github.com/volvo-cars/congestion-tax-calculator)
 | Any Language| :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
+| Java(Off) | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/picpay-desafio-backend)
+| Ruby(Off) | :brazil: | [DogHero](https://www.doghero.com.br/) | Ruby, API | [Code →](https://github.com/doghero/test-backend/wiki/Test-Case)
+| Ruby(Off) | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
 
 
 ## Inspiration

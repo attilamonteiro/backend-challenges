@@ -44,7 +44,6 @@ Feel free to contribute! Only open-source challenges please!
 | Node.js | :hong_kong: | [AfterShip](https://www.aftership.com/) | Node.js, PHP, Java or Ruby | [Code →](https://github.com/AfterShip/challenge/blob/software-engineer/coding-challenge.md)
 | Node.js | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
 | Node.js | :nigeria: | [Rise Vest](https://risevest.com/) | Node.js (TypeScript & Express) or Go, Postgres, Redis, Docker & S3/Cloud Storage Provider | [Code →](https://github.com/risevest/backend-test)
-
 | Ruby | :hong_kong: | [AfterShip](https://www.aftership.com/) | Node.js, PHP, Java or Ruby | [Code →](https://github.com/AfterShip/challenge/blob/software-engineer/coding-challenge.md)
 | Ruby | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
 | Ruby | :brazil: | [BCredi](https://www.creditas.com/bcredi) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
@@ -77,14 +76,9 @@ Feel free to contribute! Only open-source challenges please!
 | Go | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | Go | :us: | [StackPath](https://www.stackpath.com/) | Go | [Code →](https://github.com/stackpath/backend-developer-tests)
 | Go | :nigeria: | [Rise Vest](https://risevest.com/) | Node.js (TypeScript & Express) or Go, Postgres, Redis, Docker & S3/Cloud Storage Provider | [Code →](https://github.com/risevest/backend-test)
-
-
-### Kotlin
 | Kotlin | :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit)
 | Kotlin | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | Kotlin | :norway: | [Schibsted](https://schibsted.com/) | Java or Kotlin | [Code →](https://github.com/scm-spain/ms-ma--backend-test)
-
-### Any Language
 | Any Language | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | Any Language| :brazil: | [CodeRockr](https://coderockr.com/) | Any Language & Any Framework | [Code →](https://github.com/Coderockr/backend-test)
 | Any Language| :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)

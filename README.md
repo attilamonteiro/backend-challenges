@@ -87,7 +87,6 @@ Feel free to contribute! Only open-source challenges please!
 | Ruby(Off) | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/teste_ev)
 | .NET | :brazil: | [FCamara - 4](http://www.fcamara.com.br/) | .NET, Entity Framework, Rest API | [Code →](https://github.com/fcamarasantos/backend-test-dotnet)
 | .NET | - | [kinvoapp](http://) | .NET | [Code →](https://github.com/kinvoapp/kinvo-back-end-test)
-| .NET | - | [Moonpig](http://) | .NET | [Code →](https://github.com/Moonpig/tech-test-dotnet-backend)
 | .NET | - | [ingenious](http://) |-| [Code →](https://github.com/ingenious-agency/backend-test)
 
 
